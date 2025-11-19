@@ -1,0 +1,8 @@
+{
+  "name": "LeilAI GymVoice",
+  "description": "A minimalist, hands-free exercise tracking app. Log your workout details using your voice and view a summary of your session.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
